@@ -1,6 +1,3 @@
-
-    logo()
-    print ''
     print '\t\x1b[98;1m  WELCOM TO LEGHARI GROUP'
     print ''
     print '\x1b[99;1m  [1] NO ID LOND LO APP'
