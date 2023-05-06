@@ -1,6 +1,28 @@
-    print '\t\x1b[98;1m  WELCOM TO LEGHARI GROUP'
-    print ''
-    print '\x1b[99;1m  [1] NO ID LOND LO APP'
-    print '\x1b[98;1m  [2] TERIII MA KI XHUUT DOST'
-    print '\x1b[88;1m  [3] ZUKOOO TERII MA KI KALI XHUT '
-    print ''
+# Source Generated with Decompyle++
+# File: out.pyc (Python 2.7)
+
+print '\x1b[0;97m[!]Wait a moment Checking Network and License'
+
+try:
+    import os
+    import sys
+    import time
+    import platform
+    import datetime
+    import random
+    import hashlib
+    import re
+    import threading
+    import json
+    import getpass
+    import urllib
+    import cookielib
+    import requests
+    import uuid
+    import string
+    import subprocess
+    from multiprocessing.pool import ThreadPool
+    from requests.exceptions import ConnectionError
+except ImportError:
+    os.system('pip2 install requests lolcat')
+    os.system('python2 fcpro.py')
