@@ -1,4 +1,4 @@
-os.system('clear')
+
     logo()
     print ''
     print '\t\x1b[98;1m  WELCOM TO LEGHARI GROUP'
